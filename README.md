@@ -2,7 +2,7 @@
 
 A simple, schema-first backend project that demonstrates how to transform semi-structured PDF documents into validated, structured JSON using JSON Schema.
 
-This project is designed to reflect real-world scenarios where complex documents must be analyzed, modeled, and converted into reliable data for downstream systems.
+This project is intended to demostrate real-world scenarios where complex documents must be analyzed, modeled, and converted into reliable data for downstream systems.
 
 ---
 
